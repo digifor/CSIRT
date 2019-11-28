@@ -1,2 +1,0 @@
-#CSIRT
-All About CSIRT
